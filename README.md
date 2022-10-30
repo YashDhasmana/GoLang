@@ -10,11 +10,17 @@ This repository contains all the Notes and practise problems i solved to learn G
 
 ## Directories 
 
-### 001_SettingUP 
+### 001_Introduction 
 An introduction to the language along with installing GO.
 
 ### 002_Basics 
+Basic Data Types and user input 
 
+### 003_
+
+### 004_
+
+### 005_
 
 
 ## Study sources and materials 
